@@ -1,0 +1,10 @@
+{
+  "name": "tesst-aws-1",
+  "tenantCode": "unregistered",
+  "codeVersion": "0.0.0-1",
+  "buildDef": [
+    "tsc -p ."
+  ],
+  "buildIncludes": [],
+  "submodules": []
+}
